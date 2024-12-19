@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#card{
+    background: #ffffff;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    border: 2px solid;
+    border-radius: 10px;
+    border-style: groove;
+    border-width: 20px;
+    border-color: orangered;
+    padding-left: 6%;
+    padding-top: 3%;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: ;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
